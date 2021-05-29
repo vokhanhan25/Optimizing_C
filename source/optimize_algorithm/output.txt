@@ -1,0 +1,40 @@
+data/n1000.txt
+Linear Search: 
+Total time = 8.00991e-307
+Standard deviation = 0
+
+Binary Search: 
+Total time = 8.0082e-307
+Standard deviation = 0
+/------------------------------------------/
+
+data/n10000.txt
+Linear Search: 
+Total time = 8.00991e-307
+Standard deviation = 0
+
+Binary Search: 
+Total time = 0.000926
+Standard deviation = 9.26e-005
+/------------------------------------------/
+
+data/n100000.txt
+Linear Search: 
+Total time = 0.000997
+Standard deviation = 9.97e-005
+
+Binary Search: 
+Total time = 0.00283
+Standard deviation = 0.000283
+/------------------------------------------/
+
+data/n1000000.txt
+Linear Search: 
+Total time = 0.041109
+Standard deviation = 0.0041109
+
+Binary Search: 
+Total time = 0.020739
+Standard deviation = 0.0020739
+/------------------------------------------/
+

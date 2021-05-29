@@ -1,0 +1,40 @@
+data/n1000.txt
+qsort: 
+Total time = 0.000998
+Standard deviation = 0.0002994
+
+sort: 
+Total time = 3.66937e-077
+Standard deviation = 3.66937e-078
+/------------------------------------------/
+
+data/n10000.txt
+qsort: 
+Total time = 0.010989
+Standard deviation = 0.001043
+
+sort: 
+Total time = 0.011042
+Standard deviation = 0.0011042
+/------------------------------------------/
+
+data/n100000.txt
+qsort: 
+Total time = 0.129681
+Standard deviation = 0.0128718
+
+sort: 
+Total time = 0.165774
+Standard deviation = 0.0165774
+/------------------------------------------/
+
+data/n1000000.txt
+qsort: 
+Total time = 1.18596
+Standard deviation = 0.118497
+
+sort: 
+Total time = 1.84883
+Standard deviation = 0.184883
+/------------------------------------------/
+

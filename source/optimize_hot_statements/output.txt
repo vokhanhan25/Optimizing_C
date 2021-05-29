@@ -1,0 +1,10 @@
+n = 10000000
+Optimized: 
+Total time = 0.225892
+Standard deviation = 4.3553e-006
+
+Not optimizedh: 
+Total time = 0.234375
+Standard deviation = 8.30184e-005
+/------------------------------------------/
+
