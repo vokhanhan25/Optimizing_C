@@ -7,8 +7,8 @@ class FRACTION {
         int x, y;
     public:
         FRACTION (int );
-        FRACTION(FRACTION const &);
-        FRACTION & operator=(FRACTION const &);
+        FRACTION(FRACTION const &) = delete;
+        FRACTION & operator=(FRACTION const &) = delete;
 };
 
 FRACTION::FRACTION(int a = 0) {
